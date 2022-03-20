@@ -29,7 +29,7 @@ img{
 </head>
 <body style="background-color:#0F4C5C;">
 <h1>Jordan Harris<h1>
-  <img src="https://github.com/JMHarris-RMIT/Assingment-1/blob/main/picture.jpg" alt="Profile picture" width = "400" height = "400">
+  <img src="picture.jpg" alt="Profile picture" width = "400" height = "400">
   <h2> S3885258<h2>
   <p >Email: s3885258@student.rmit.edu.au<p>
   <p >Personal information: I am a Australian man living south of Perth in Busselton, Western Australia.

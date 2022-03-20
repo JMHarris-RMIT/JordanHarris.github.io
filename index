@@ -28,14 +28,13 @@ img{
 </style>
 </head>
 <body style="background-color:#0F4C5C;">
-<h1>Jordan Harris<h1>
-  <img src="Assignment-1/picture.jpg" alt="Profile picture" width = "400" height = "400">
-  <h2> S3885258<h2>
-  <p >Email: s3885258@student.rmit.edu.au<p>
-  <p >Personal information: I am a Australian man living south of Perth in Busselton, Western Australia.
+  <h1>Jordan Harris<h1>
+    <img src="Assignment-1/picture.jpg" alt="Profile picture" width = "400" height = "400">
+    <h2> S3885258<h2>
+    <p >Email: s3885258@student.rmit.edu.au<p>
+    <p >Personal information: I am a Australian man living south of Perth in Busselton, Western Australia.
 I work full time as a wood machinist and I am studying computer science at RMIT. In my free time I like to play drums in a local band, play games of  Warhammer : Age of Sigmar and run a scout group. <p>
-</body>
-<body>
+
   <h1> Interest in IT<h1>
     <p> I have always had an interest in IT, I spent most of my teenage years gaming on my PC and developed an interest from there. In high school I studied computer science as an elective and did quite well. I stopped studying IT as work and other interests took precedence but I have always maintained an interest in computers and technology. I have experience in building PC's as well as a basic understanding of coding and the underlying principles of computing.<p>
     <p>I chose to study with RMIT due to the flexibility of courses and the way online study is conducted. I have studied online at different universities and RMIT is the most accessible and straightforward universities I have studied with. As I am now looking to complete a full degree RMIT seems to be the perfect choice. <p>

@@ -29,7 +29,7 @@ p {
 <body style="background-color:#C4E7D4;">
   <div>
     <div>
-      <img src="https://github.com/JMHarris-RMIT/Assingment-1/blob/8bd5292f0aa6ada3ff82ecb913b4e7fd676c54c0/picture.jpg" alt="Profile picture" style="width:200px;height:200px;float: right;">
+      <img src="picture.jpg" alt="Profile picture" style="width:200px;height:200px;float: right;">
     </div>
     <h1> Personal Information</h1>
       <h2>Jordan Harris</h2>

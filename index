@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Jordan - ePortfolio</title>
+<style>
+h1 {
+  color: #FB8B24;
+  font-family: verdana;
+  font-size: 300%;
+  margin; 15px
+}
+h2 {
+  color: #FB8B24;
+  font-family: verdana;
+  font-size: 120%;
+  margin: 30px;
+}
+p {
+  color: #E36414;
+  font-family: verdana;
+  font-size: 80%;
+
+}
+img{
+  float: right;
+}
+
+</style>
+</head>
+<body style="background-color:#0F4C5C;">
+<h1>Jordan Harris<h1>
+  <img src="picture.jgp" alt="Profile picture" width = "400" height = "400">
+  <h2> S3885258<h2>
+  <p >Email: s3885258@student.rmit.edu.au<p>
+  <p >Personal information: I am a Australian man living south of Perth in Busselton, Western Australia.
+I work full time as a wood machinist and I am studying computer science at RMIT. In my free time I like to play drums in a local band, play games of  Warhammer : Age of Sigmar and run a scout group. <p>
+</body>
+</html>

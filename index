@@ -29,7 +29,7 @@ p {
 <body style="background-color:#C4E7D4;">
   <div>
     <div>
-      <img src="https://github.com/JMHarris-RMIT/Assingment-1/blob/main/picture.jpg" alt="Profile picture" style="width:200px;height:200px;float: right;">
+      <img src="https://github.com/JMHarris-RMIT/Assingment-1/blob/8bd5292f0aa6ada3ff82ecb913b4e7fd676c54c0/picture.jpg" alt="Profile picture" style="width:200px;height:200px;float: right;">
     </div>
     <h1> Personal Information</h1>
       <h2>Jordan Harris</h2>
@@ -86,7 +86,7 @@ p {
       Another feature that can aid players would be including a function to keep track of the 'status' of each model. Each model can take a number of wounds before it is removed from play, as well as a number of status effects that can be applied. Each model will be displayed with all the relevant data in a onscreen card. When a player selects the card they will be able to alter their score and status. When the model 'dies' the card will become red to represent it is out of play. If the model is not able to be used in the current phase it will instead be displayed in grey.
       The last feature will be a function to keep track of various scores within the game. The player will be asked to enter scores at the appropriate time and the input will be tracked on the screen. The player will also be able to alter scores in case of error.
       When the player begins the battle the screen will display the scores at the top of the page followed by a title displaying what stage the game is in with rules describing what the player can do underneath. The different cards displaying the model will be positioned at the bottom of the screen.</p>
-      <img src="Wireframe.PNG" alt="Wire Frame" style="width:500px;height:400px;margin:100px;">
+      <img src="https://github.com/JMHarris-RMIT/Assingment-1/blob/main/wireframe.png" alt="Wire Frame" style="width:500px;height:400px;margin:100px;">
       <h2>Tools and Technologies</h2>
       <p>This website will require some dedicated hardware such as a server which users can access. The server will be asked to perform some basic functions so this must be accounted for. The software requirements of the program will be a HTML website that will be responsible for displaying the page to the user. This website will require some back end programming as files and data must be loaded. Free libraries can be used for assets that may be used on the website.
         The rules for Warhammer : Age of Sigmar are able to be used in this fashion as the the content of the original works is not being reproduced in a way that would infringe on the rights of the original copyright holder. If this website or a similar one already existed and was registered to Games Workshop, this could be an infringement but as no such website exists my project will not. Additionally as this website will not make a profit, deny profit to the original copy right holder or claim to own the rights to any of content used, this use is protected under the Copyright act of 1968. The Copyright Act 1968 does not protect names or titles unless they are trade marked. While 'Warhammer' and 'Age of Sigmar' are trademarks and their use will need to be circumvented (AOS is a commonly used abbreviation that can be used instead) no other trademarks have been registered so model and ability names are able to be used. For reference similar fan sites such as AOS reminders (https://aosreminders.com/) have been in operation for many years. </p>

@@ -30,7 +30,7 @@ p {
 <body style="background-color:#C4E7D4;">
   <div>
     <div>
-      <img src="https://github.com/JMHarris-RMIT/JordanHarris.github.io/blob/999520809adbc00b8006a6ed1fbb04ad8bca9c62/picture.jpg" alt="Profile picture" style="width:200px;height:200px;float: right;">
+      <img src="https://jmharris-rmit.github.io/JordanHarris.github.io/picture.PNG/" alt="Profile picture" style="width:200px;height:200px;float: right;">
     </div>
     <h1> Personal Information</h1>
       <h2>Jordan Harris</h2>

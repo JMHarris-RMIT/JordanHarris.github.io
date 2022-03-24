@@ -1,8 +1,4 @@
-# JordanHarris.github.io
-<!DOCTYPE html>
-<html>
-<head>
-<title>Jordan - ePortfolio</title>
+
 <style>
 h1 {
   color: #0F4C5C;

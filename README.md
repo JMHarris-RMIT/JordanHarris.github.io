@@ -1,4 +1,4 @@
-<head>
+
 <style>
 h1 {
   color: #0F4C5C;
@@ -22,7 +22,7 @@ p {
 
 
 </style>
-</head>
+
 <body style="background-color:#C4E7D4;">
   <div>
     <div>
